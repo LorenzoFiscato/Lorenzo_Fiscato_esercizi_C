@@ -12,3 +12,8 @@ add_executable(Es4 Es-Base/Es4.c)
 add_executable(Es5 Es-Base/Es5.c)
 add_executable(Es6 Es-Base/Es6.c)
 add_executable(Es7 Es-Base/Es7.c)
+add_executable(Es8 Es-Base/Es8.c)
+add_executable(Es9 Es-Base/Es9.c)
+add_executable(Es10 Es-Base/Es10.c)
+
+add_executable(Es11 Es-Intermedi/Es11.c)
